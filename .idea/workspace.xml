@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82610fe4-8885-42d4-940c-edcec8ae923d" name="Changes" comment="login almost done 1">
-      <change beforePath="$PROJECT_DIR$/.idea/Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Hadas/Hadas/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Hadas/static/login1.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/static/login1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Hadas/Hadas/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/static/login1.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/static/login1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/login1.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/login1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/loginScreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/loginScreen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653210276645</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="login almost done 1">
+      <created>1653220157837</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653220157837</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

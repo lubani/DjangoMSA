@@ -69,7 +69,8 @@ TEMPLATES = [
 WSGI_APPLICATION = 'Hadas.wsgi.application'
 
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'Hadas\\static\\')
+    os.path.join(BASE_DIR, 'Hadas\\static\\'),
+    'Login\\static\\',
 ]
 
 # Database
@@ -118,7 +119,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
-STATIC_URL = '../Login/static/'
+STATIC_URL = 'static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'assets')
 
 # Default primary key field type

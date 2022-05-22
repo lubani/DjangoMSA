@@ -1,11 +1,14 @@
 {% extends "base.html" %}
 
-<link rel="stylesheet" type="text/css" href="login1.css" />
+{% load static %}
 
 {% block content %}
 
+<link rel="stylesheet" type="text/css"
+      href="static/login1.css" />
+
     <div class="container">
-        <form action="{% url 'user_login' %}" method="post">
+        <form action="{% url 'index' %}" method="post">
             {% csrf_token %}
             <div class="col-md-8 col-md-offset-2">
                 <div class="panel panel-default">
@@ -28,7 +31,7 @@
                         </div>
                         <div class="col-md-6 col-md-offset-4">
                             <input name="login" type="submit" value="Login" class="btn btn-success" /> &nbsp;
-                            <a href="/mymodule/register">or Register</a>
+                            <a href="/Login/register">or Register</a>
                         </div>
                     </div>
                 </div>
