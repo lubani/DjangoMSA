@@ -1,24 +1,46 @@
-from django.contrib.auth import authenticate, login
-from django.shortcuts import render
+from django.shortcuts import render, redirect
+from django.http import HttpResponse
+from django.contrib.auth.models import User, auth
+from django.contrib import messages
 
 
-def user_login(request):
+# Create your views here.
+
+
+def index(request):
     if request.method == 'POST':
-        # Process the request if posted data are available
         username = request.POST['username']
         password = request.POST['password']
-        # Check username and password combination if correct
-        user = authenticate(username=username, password=password)
+
+        user = auth.authenticate(username=username, password=password)
+
         if user is not None:
-            # Save session as cookie to login the user
-            login(request, user)
-            # Success, now let's login the user.
-            return render(request, 'ecommerce/user/account.html')
+            auth.login(request, user)
+            return redirect('/home')
         else:
-            # Incorrect credentials, let's throw an error to the screen.
-            return render(request, 'ecommerce/user/login.html',
-                          {'error_message': 'Incorrect username and / or password.'})
+            messages.info(request, 'invalid username or password')
+            return redirect("/")
     else:
-        # No post data availabe, let's just show the page to the user.
-        return render(request, 'ecommerce/user/login.html')
-# Create your views here.
+        return render(request, 'index.html')
+
+
+def register(request):
+    if request.method == 'POST':
+        email = request.POST['email']
+        username = request.POST['username']
+        password = request.POST['password']
+
+        user = User.objects.create_user(username=username, password=password, email=email)
+        user.save()
+        print('user created')
+        return redirect('/custom')
+
+    return render(request, 'register.html')
+
+
+def custom(request):
+    return render(request, 'custom.html')
+
+
+def home(request):
+    return render(request, 'home.html')

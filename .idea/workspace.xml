@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82610fe4-8885-42d4-940c-edcec8ae923d" name="Changes" comment="login first attempt">
-      <change afterPath="$PROJECT_DIR$/venv/Hadas/Login/static/login1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/login1.css" afterDir="false" />
+    <list default="true" id="82610fe4-8885-42d4-940c-edcec8ae923d" name="Changes" comment="login second attempt">
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/static/login1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Hadas/Hadas/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas/Hadas/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/loginScreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/loginScreen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/views.py" afterDir="false" />
     </list>
@@ -56,8 +50,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Hadas" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Hadas/Hadas" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
@@ -148,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653130413017</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="login second attempt">
+      <created>1653150893190</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653150893190</updated>
+    </task>
+    <task id="LOCAL-00008" summary="login second attempt">
+      <created>1653150899352</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653150899352</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,7 +173,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first version" />
     <MESSAGE value="login first attempt" />
-    <option name="LAST_COMMIT_MESSAGE" value="login first attempt" />
+    <MESSAGE value="login second attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="login second attempt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

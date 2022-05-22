@@ -1,6 +1,6 @@
-from Hadas import Login
+
 from django.urls import path
-import Hadas
+
 from . import views
 
 urlpatterns = [
