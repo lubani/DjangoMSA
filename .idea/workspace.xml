@@ -4,16 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82610fe4-8885-42d4-940c-edcec8ae923d" name="Changes" comment="login almost done 1">
+    <list default="true" id="82610fe4-8885-42d4-940c-edcec8ae923d" name="Changes" comment="login almost done 2">
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/static/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/static/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/static/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/static/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/login/static/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/login/static/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/login/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/login/static/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/login/static/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/register/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/register/static/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/register/static/login1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/register/static/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/register/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/register/static/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/register/static/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/register/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/register/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas/register/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Hadas/Hadas/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas/Hadas/static/login1.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/static/login1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Hadas/Hadas/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Hadas/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/static/login1.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/static/login1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/login1.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/login1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/loginScreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/Login/templates/loginScreen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/static/login1.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/static/login1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/login1.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/templates/login1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/templates/loginScreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/templates/loginScreen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas/Login/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas/login/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +53,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -32,14 +62,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/venv/Hadas/Login/templates/base.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/venv/Hadas/Login/urls.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/venv/Hadas/Login/apps.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/Hadas/login/templates/base.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/Hadas/login/urls.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/Hadas/login/apps.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/venv/Hadas/Hadas/urls.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/venv/Hadas/Hadas/settings.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/venv/Hadas/Login/templates/loginScreen.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/venv/Hadas/Login/templates/login1.css" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/venv/Hadas/Login/templates/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/Hadas/login/templates/loginScreen.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/Hadas/login/templates/login1.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/Hadas/login/templates/index.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,7 +84,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Hadas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Hadas/register" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ReaderModeSettings">
@@ -62,11 +92,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\register" />
+      <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\login" />
+      <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\Hadas\static" />
+      <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\register\templates" />
       <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\Hadas" />
-      <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\Login\static" />
-      <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas" />
       <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\Login\templates" />
       <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\Login" />
       <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\" />
@@ -181,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653220157837</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="login almost done 2">
+      <created>1653241716338</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653241716338</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,13 +240,14 @@
     <MESSAGE value="login first attempt" />
     <MESSAGE value="login second attempt" />
     <MESSAGE value="login almost done 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="login almost done 1" />
+    <MESSAGE value="login almost done 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="login almost done 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
+          <url>file://$PROJECT_DIR$/venv/Hadas/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

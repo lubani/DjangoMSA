@@ -35,7 +35,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Login',
+    "crispy_forms",
+    'login',
+    'register.apps.RegisterConfig',
 ]
 
 MIDDLEWARE = [
@@ -70,7 +72,7 @@ WSGI_APPLICATION = 'Hadas.wsgi.application'
 
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'Hadas\\static\\'),
-    'Login\\static\\',
+    'login\\static\\',
 ]
 
 # Database
@@ -126,3 +128,5 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'assets')
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+CRISPY_TEMPLATE_PACK = "bootstrap4"
