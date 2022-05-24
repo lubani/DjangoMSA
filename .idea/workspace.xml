@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82610fe4-8885-42d4-940c-edcec8ae923d" name="Changes" comment="registration, need to fix crispy forms">
-      <change beforePath="$PROJECT_DIR$/.idea/Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Hadas2/register/templates/register_copy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/Hadas/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/Hadas/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/Hadas/static/login1.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/Hadas/static/login1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/Hadas/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/Hadas/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/login/static/login1.css" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/login/static/login1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/login/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/login/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/register/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/register/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/register/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/register/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/register/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/register/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/register/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/register/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/register/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/register/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/authentication/templates/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/authentication/templates/registration.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +49,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Hadas2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -190,7 +202,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653405854937</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="registration, need to fix crispy forms">
+      <created>1653406007276</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653406007276</updated>
+    </task>
+    <task id="LOCAL-00016" summary="registration, need to fix crispy forms">
+      <created>1653406039414</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1653406039414</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
