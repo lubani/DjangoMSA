@@ -29,6 +29,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'Hadas',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -38,6 +39,7 @@ INSTALLED_APPS = [
     "crispy_forms",
     'login',
     'register.apps.RegisterConfig',
+    'profile_of_user',
 ]
 
 
@@ -83,11 +85,12 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'postgres',
-        'USER': 'postgres',
+        'USER': 'postgres', 
         'PASSWORD': '8080',
-        'HOST': 'localhost'
+        'HOST': '127.0.0.1', 
+        'PORT': '5432',
+    
     }
-
 }
 
 # Password validation

@@ -19,10 +19,11 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from register import views as v
 
 urlpatterns = [
+    path('admin', admin.site.urls),
+    path("register", v.register, name="register"),
     path('', include('login.urls')),
-    path("register/", v.register, name="register"),
-    path('admin/', admin.site.urls),
     path('', include("django.contrib.auth.urls")),
+    path('forum', include('profile_of_user.urls')),
 ]
 
 urlpatterns += staticfiles_urlpatterns()
