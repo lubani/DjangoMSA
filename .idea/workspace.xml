@@ -4,58 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82610fe4-8885-42d4-940c-edcec8ae923d" name="Changes" comment="registration, need to fix crispy forms">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/login/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0002_auto_20210618_1321.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0003_auto_20210618_1324.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0004_remove_post_pub_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0005_auto_20210618_1440.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0006_auto_20210618_1442.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0007_auto_20210618_1517.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0008_replie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0009_replie_post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0010_post_timestamp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0011_post_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0012_profile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0013_remove_post_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0014_post_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0015_auto_20210621_1020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0016_replie_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0017_auto_20210621_1135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0018_auto_20210621_1138.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0019_auto_20210621_1142.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/0020_auto_20210621_1159.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/templates/basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/templates/discussion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/templates/forum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/templates/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/profile_of_user/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Hadas2/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="82610fe4-8885-42d4-940c-edcec8ae923d" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoMSA-master/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas2/Hadas/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/Hadas/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas2/Hadas/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/Hadas/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas2/login/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/login/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas2/register/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/register/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas2/register/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/register/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Hadas2/register/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/register/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/login/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/login/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/login/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/login/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Hadas2/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Hadas2/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +53,7 @@
     "WebServerToolWindowFactoryState": "false",
     "javascript.nodejs.core.library.configured.version": "18.2.0",
     "javascript.nodejs.core.library.typings.version": "17.0.36",
-    "last_opened_file_path": "C:/Users/libby/PycharmProjects/Django/venv",
+    "last_opened_file_path": "C:/Users/libby/PycharmProjects/Django/venv/Hadas2/manage.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -122,16 +75,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\libby\PycharmProjects\Django\venv" />
       <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas2" />
       <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas2\register" />
       <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\register" />
       <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\login" />
-      <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\Hadas\static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\libby\PycharmProjects\Django\venv" />
       <recent name="C:\Users\libby\PycharmProjects\Django\DjangoMSA-master2\venv\Hadas2\register\templates" />
       <recent name="C:\Users\libby\PycharmProjects\Django\DjangoMSA-master2\venv\Hadas2\register\templates\registration" />
-      <recent name="C:\Users\libby\PycharmProjects\Django\venv" />
       <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas" />
       <recent name="C:\Users\libby\PycharmProjects\Django\venv\Hadas\Login\templates" />
     </key>
@@ -145,12 +98,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\libby\PycharmProjects\Django\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DjangoMSA-master/DjangoMSA-master/venv/Hadas2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Hadas2" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DjangoMSA-master/DjangoMSA-master/venv/Hadas2/manage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Hadas2/manage.py" />
       <option name="PARAMETERS" value="runserver" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +127,7 @@
       <workItem from="1653999897222" duration="2645000" />
       <workItem from="1654010766614" duration="2162000" />
       <workItem from="1654013960843" duration="83000" />
-      <workItem from="1654031282516" duration="705000" />
+      <workItem from="1654031282516" duration="2187000" />
     </task>
     <task id="LOCAL-00001" summary="first version">
       <created>1653126905801</created>
@@ -288,7 +241,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653406039414</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update">
+      <created>1654032045930</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1654032045930</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update">
+      <created>1654032138924</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1654032138924</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +279,8 @@
     <MESSAGE value="login almost done 1" />
     <MESSAGE value="login almost done 2" />
     <MESSAGE value="registration, need to fix crispy forms" />
-    <option name="LAST_COMMIT_MESSAGE" value="registration, need to fix crispy forms" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -326,6 +294,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Django$MSA.coverage" NAME="MSA Coverage Results" MODIFIED="1654031671637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DjangoMSA-master/DjangoMSA-master/venv/Hadas2" />
+    <SUITE FILE_PATH="coverage/Django$MSA.coverage" NAME="MSA Coverage Results" MODIFIED="1654033377525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Hadas2" />
   </component>
 </project>
