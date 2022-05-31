@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/DjangoMSA-master/venv" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/Hadas2" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (Django)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (Django) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
